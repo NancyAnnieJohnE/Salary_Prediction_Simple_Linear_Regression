@@ -1,4 +1,3 @@
-# Salary_Prediction_Simple_Linear_Regression
 
 # Salary Prediction using Simple Linear Regression
 
